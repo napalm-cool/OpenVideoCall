@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Agora_Native_SDK_for_Android_FULL\libs\agora-rtc-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f07e12e45303b97d92fadef66bb120ca01fca585">
+        <dex dex="C:\Agora_Native_SDK_for_Android_FULL\samples\OpenVideoCall_Android\app\build\intermediates\pre-dexed\debug\agora-rtc-sdk_4da4f030033f7cd5b29713c9ab3b275297b2768d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Agora_Native_SDK_for_Android_FULL\samples\OpenVideoCall_Android\app\libs\Android_Map3D_SDK_V5.2.0_20170602.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68ff8a150ed65a9c5f6a04665caae7cb0b57b858">
+        <dex dex="C:\Agora_Native_SDK_for_Android_FULL\samples\OpenVideoCall_Android\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.2.0_20170602_898c6007526628d19d5afe590688364391a4ae7e.jar" />
+    </item>
+
+</items>
